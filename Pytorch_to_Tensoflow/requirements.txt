@@ -1,0 +1,8 @@
+# Use python=3.6.10
+torch
+torchvision
+opencv-python
+tensorflow==2.3
+onnx
+onnxruntime
+onnx_tf
